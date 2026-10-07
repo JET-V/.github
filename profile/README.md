@@ -2,6 +2,8 @@
 
 Studio de jeux indé du Québec. Quatre devs, une lettre chacun : **J**onathan, **E**milien, **T**homas, **V**ictor.
 
+Tous nos jeux sont sur notre page itch.io : [jetv-studio.itch.io](https://jetv-studio.itch.io/)
+
 ## Jeux
 
 ### Bionic Nature
@@ -10,11 +12,27 @@ Notre projet d'intégration : un jeu de plateforme 2D en pixel art. On traverse 
 
 `Unity 6` · `C#` · `URP` · `FMOD` · `Aseprite`
 
+▶️ **[Jouer sur itch.io](https://jetv-studio.itch.io/bionic-nature-the-last-remnants)**
+
+### Double Case Salvage
+
+🏆 **1<sup>re</sup> place à l'Eclipse Game Jam**, à égalité avec deux autres équipes.
+
+Un jeu d'enquête 3D à la première personne. On alterne entre William, à midi, et Amélia, à minuit, dans la même ville. On ramasse des mots en parlant aux gens et en fouillant, on remplit son journal de témoignages, puis on soumet son constat.
+
+`Unity 6` · `C#` · `URP` · `FMOD`
+
+▶️ **[Jouer sur itch.io](https://jonathanb12.itch.io/double-case-salvage)**
+
 ### A Spark in the Dark
 
-Notre jeu pour la Summer Melon Jam 2026 : de l'horreur à la première personne, dans un mélange de 2D et de 3D. L'air du bâtiment devient toxique, on a un détecteur de gaz et un briquet pour trouver la sortie, et des monstres nous traquent au son, à la vue ou à l'odeur.
+🏆 **1<sup>re</sup> place dans la ligue intermédiaire de la Summer Melon Jam 2026**
+
+De l'horreur à la première personne, dans un mélange de 2D et de 3D. L'air du bâtiment devient toxique, on a un détecteur de gaz et un briquet pour trouver la sortie, et des monstres nous traquent au son, à la vue ou à l'odeur.
 
 `Unity 6` · `C#` · `URP` · `Aseprite`
+
+▶️ **[Jouer sur itch.io](https://v-top.itch.io/a-spark-in-the-dark)**
 
 ## Autres projets
 
@@ -25,9 +43,9 @@ Notre jeu pour la Summer Melon Jam 2026 : de l'horreur à la première personne,
 
 ## Équipe
 
-| | Membre | GitHub |
-|:-:|---|---|
-| **J** | Jonathan Basque | [@Jonathan-333](https://github.com/Jonathan-333) |
-| **E** | Emilien Devauchelle | [@emil1326](https://github.com/emil1326) |
-| **T** | Thomas Roeung | [@ThomasAneakot](https://github.com/ThomasAneakot) |
-| **V** | Victor Thibodeau | [@OnlineAquaCow](https://github.com/OnlineAquaCow) |
+| | Membre | GitHub | itch.io |
+|:-:|---|---|---|
+| **J** | Jonathan Basque | [@Jonathan-333](https://github.com/Jonathan-333) | [jonathanb12](https://jonathanb12.itch.io/) |
+| **E** | Emilien Devauchelle | [@emil1326](https://github.com/emil1326) | |
+| **T** | Thomas Roeung | [@ThomasAneakot](https://github.com/ThomasAneakot) | |
+| **V** | Victor Thibodeau | [@OnlineAquaCow](https://github.com/OnlineAquaCow) | [v-top](https://v-top.itch.io/) |
